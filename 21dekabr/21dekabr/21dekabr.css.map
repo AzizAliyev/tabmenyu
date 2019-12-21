@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,QADI,CACJ,MAAM,CAAA;EACF,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,SAAS;CAIrB;;AAEL,AAAA,QAAQ,CAAA;EACJ,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,eAAe;CAC1B;;AACD,AAAA,OAAO,CAAA;EACH,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;CAErB",
+    "sources": [
+        "21dekabr.scss"
+    ],
+    "names": [],
+    "file": "21dekabr.css"
+}
